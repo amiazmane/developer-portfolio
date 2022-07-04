@@ -15,8 +15,11 @@ section {
   width: 50%;
   padding-left: 10%;
 }
-.half-width img {
-  width: 80%;
+.img1 img {
+  width: 100%;
+}
+.img2 img {
+  width: 100%;
 }
 .link-button {
   color: white;
@@ -28,4 +31,15 @@ section {
 }
 .div1 {
   background-image: url(images/top-banner.png);
+}
+.div2 {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right, bottom;
+  padding-right: 120px;
+  margin-left: -120px;
+  margin-top: -50px;
+}
+.section2 {
+  margin-top: 150px;
 }
