@@ -27,6 +27,11 @@ h1 {
 .img2 img {
   width: 100%;
 }
+.img3 {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
 .link-button {
   color: white;
   font-weight: 700;
@@ -48,4 +53,20 @@ h1 {
 }
 .section2 {
   margin-top: 150px;
+}
+.box {
+  width: 45%;
+  height: 400px;
+  box-shadow: 10px 10px 40px gray;
+  margin: 2.5% 4%;
+  padding-left: 50px;
+}
+.box1 {
+  border-left: 7px solid red;
+}
+.box2 {
+  border-left: 7px solid blue;
+}
+h2 {
+  font-size: 40px;
 }
