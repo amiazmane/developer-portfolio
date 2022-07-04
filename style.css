@@ -8,7 +8,13 @@ h1 {
 .orange-color {
   color: orange;
 }
-section {
+.section1 {
+  display: flex;
+}
+.section2 {
+  display: flex;
+}
+.section4 {
   display: flex;
 }
 .half-width {
